@@ -1,0 +1,56 @@
+
+    * { 
+    font-family: Arial; 
+    } 
+    
+    p { 
+    text-indent: 15px; 
+    text-align: justify; 
+    } 
+    
+    .direct-speech { 
+    color: blue; 
+    font: italic 100% serif; 
+    } 
+    
+    #header { 
+    color: black; 
+    text-transform: uppercase; 
+    text-align: center; 
+    padding: 30px 2%; 
+    } 
+    
+    #part1, 
+    #part2, 
+    #part3 { 
+    padding: 30px 2%; 
+    text-align: center; 
+    text-shadow: -5px 5px 10px; 
+    } 
+    
+    #contents { 
+    list-style-type: square; 
+    text-transform: uppercase; 
+    } 
+    
+    a { 
+    text-decoration: none; 
+    } 
+    
+    a:link { 
+    color: olivedrab; 
+    } 
+    
+    a:visited { 
+    color: black; 
+    } 
+    
+    p:hover { 
+    border-left: 2px solid aqua; 
+    
+    } 
+    
+    img { 
+    padding: 30px 2%; 
+    width: 100%; 
+    }
